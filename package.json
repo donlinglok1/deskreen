@@ -322,7 +322,7 @@
     "webpack-merge": "^5.0.9"
   },
   "dependencies": {
-    "@blueprintjs/core": "^3.31.0",
+    "@blueprintjs/core": "^3.54.0",
     "@blueprintjs/select": "^3.13.7",
     "@fortawesome/fontawesome-free": "^5.14.0",
     "@hot-loader/react-dom": "^16.13.0",
