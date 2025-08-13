@@ -358,7 +358,7 @@
     "react-dom": "^16.12.0",
     "react-flexbox-grid": "^2.1.2",
     "react-hot-loader": "^4.12.21",
-    "react-i18next": "^11.7.0",
+    "react-i18next": "^11.18.6",
     "react-qrcode-logo": "^2.2.1",
     "react-redux": "^7.2.0",
     "react-reveal": "^1.2.2",
